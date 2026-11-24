@@ -30,18 +30,21 @@ src: url("font/Chubbo-Light.woff2") format("woff2");
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    padding: 20px;
 }
 
 .grid1{
     display: grid;
     grid-template-columns: repeat(3, 2fr);
     gap: 20px;
+    padding: 20px;
 }
 
 .grid2{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 40px;
+    padding: 20px;
 }
 
 .grid-link{
