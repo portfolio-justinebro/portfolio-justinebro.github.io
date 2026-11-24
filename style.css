@@ -3,7 +3,7 @@ body{
     color:rgb(118, 5, 1);
     font-family: segment;
     max-width: 1600px;
-    margin: 0px, auto;
+    margin: 0 auto;
 }
 p{
     text-align: left;
